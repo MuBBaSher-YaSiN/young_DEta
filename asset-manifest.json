@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/young_DEta/static/css/main.0bdf014e.css",
+    "main.js": "/young_DEta/static/js/main.a0900cc2.js",
+    "static/js/787.4aad1aee.chunk.js": "/young_DEta/static/js/787.4aad1aee.chunk.js",
+    "static/media/Artificial Intelligence.png": "/young_DEta/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
+    "static/media/Programming.png": "/young_DEta/static/media/Programming.0bf799fe1f5f79814d30.png",
+    "static/media/Young Stars Mission.png": "/young_DEta/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
+    "static/media/Robotics.png": "/young_DEta/static/media/Robotics.f03310bb43f7e8d1977f.png",
+    "static/media/Technical Development.png": "/young_DEta/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
+    "static/media/websiteLogo.png": "/young_DEta/static/media/websiteLogo.385420744b772df2dddc.png",
+    "static/media/testimonial_image.png": "/young_DEta/static/media/testimonial_image.82ae2afbaa640a950658.png",
+    "static/media/Mental Development.png": "/young_DEta/static/media/Mental Development.ae546dc6ece903c521a4.png",
+    "index.html": "/young_DEta/index.html",
+    "main.0bdf014e.css.map": "/young_DEta/static/css/main.0bdf014e.css.map",
+    "main.a0900cc2.js.map": "/young_DEta/static/js/main.a0900cc2.js.map",
+    "787.4aad1aee.chunk.js.map": "/young_DEta/static/js/787.4aad1aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bdf014e.css",
+    "static/js/main.a0900cc2.js"
+  ]
+}
